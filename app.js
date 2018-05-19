@@ -14,7 +14,7 @@ const wait = ms => new Promise(done => setTimeout(done, ms));
   });
   const page = await browser.newPage();
 
-  if (!categories) {
+  if (categories.length == 0) {
     await page.goto(ROOT_URL, {waitUntil: 'networkidle2'});
     let categories = await page.evaluate(() => {
       const links = [...document.querySelectorAll('.vertical-menu-list a')];
@@ -23,6 +23,10 @@ const wait = ms => new Promise(done => setTimeout(done, ms));
         link: link.href
       }))
     })
+    categories = categories.filter(c => c.name != 'Машины');
+    categories.push({ name: 'Радиоуправляемые модели машин электро', link: 'https://rc-go.ru/cat/radioupravlyaemie-modeli-mashin-elektro/' })
+    categories.push({ name: 'Радиоуправляемые модели машин с ДВС, бензиновые и нитро', link: 'https://rc-go.ru/cat/radioupravlyaemie-modeli-mashin-s-dvs-benzinovie-i-nitro/' })
+    categories.push({ name: 'Машинки на пульте', link: 'https://rc-go.ru/cat/mashinki-na-pulte/' })
     categories = await Promise.all(categories.map(async (category, i) => {
       await wait(i * 2000);
       const p = await browser.newPage();
@@ -48,14 +52,16 @@ const wait = ms => new Promise(done => setTimeout(done, ms));
         const temp = await page.evaluate((category, subcategory) => {
           const items = [...document.querySelectorAll('.item_table')];
           const products = items.map(item => {
-            let name, price, manufacter, description;
+            let name, price, manufacter, description, article, img;
             try {
-             name = item.querySelector('.add-prod-name').textContent;
-             price = item.querySelector('.curr-price').childNodes[0].textContent;
-             manufacter = item.querySelector('.add-prod-center div a').textContent;
-             description = item.querySelector('.add-prod-center div').childNodes[9].textContent.trim();
+              name = item.querySelector('.add-prod-name').textContent;
+              price = item.querySelector('.curr-price').childNodes[0].textContent;
+              manufacter = item.querySelector('.add-prod-center div a').textContent;
+              article = item.querySelector('.add-prod-center div').childNodes[7].textContent.trim();
+              description = item.querySelector('.add-prod-center div').childNodes[9].textContent.trim();
+              img = item.querySelector('.add-prod-img img').src;
             } catch(e) { console.log(e) }
-            return ({ name, price, manufacter, description, category, subcategory })
+            return ({ name, price, manufacter, description, article, img, category, subcategory })
           })
           return products
         }, categories[i].name, categories[i].subcategories[j].name);

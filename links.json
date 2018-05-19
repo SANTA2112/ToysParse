@@ -26,24 +26,6 @@
     ]
   },
   {
-    "name": "Машины",
-    "link": "https://rc-go.ru/cat/radioupravlyaemie-avtomobili/",
-    "subcategories": [
-      {
-        "name": "Радиоуправляемые модели машин электро",
-        "link": "https://rc-go.ru/cat/radioupravlyaemie-modeli-mashin-elektro/"
-      },
-      {
-        "name": "Радиоуправляемые модели машин с ДВС, бензиновые и нитро",
-        "link": "https://rc-go.ru/cat/radioupravlyaemie-modeli-mashin-s-dvs-benzinovie-i-nitro/"
-      },
-      {
-        "name": "Машинки на пульте",
-        "link": "https://rc-go.ru/cat/mashinki-na-pulte/"
-      }
-    ]
-  },
-  {
     "name": "Вертолеты",
     "link": "https://rc-go.ru/cat/radioupravlyaemie-modeli-vertoletov/",
     "subcategories": [
@@ -726,6 +708,108 @@
       {
         "name": "Сервисные работы с детскими электромобилями",
         "link": "https://rc-go.ru/cat/servisnie-raboti-s-detskimi-elektromobilyami/"
+      }
+    ]
+  },
+  {
+    "name": "Радиоуправляемые модели машин электро",
+    "link": "https://rc-go.ru/cat/radioupravlyaemie-modeli-mashin-elektro/",
+    "subcategories": [
+      {
+        "name": "Монстры",
+        "link": "https://rc-go.ru/cat/monstri/"
+      },
+      {
+        "name": "Внедорожники (трагги)",
+        "link": "https://rc-go.ru/cat/vnedorozhniki-traggi/"
+      },
+      {
+        "name": "Дрифт",
+        "link": "https://rc-go.ru/cat/drift/"
+      },
+      {
+        "name": "Шоссейные",
+        "link": "https://rc-go.ru/cat/shosseynie/"
+      },
+      {
+        "name": "Ралли",
+        "link": "https://rc-go.ru/cat/ralli/"
+      },
+      {
+        "name": "Шорт-корс траки",
+        "link": "https://rc-go.ru/cat/short-kors-traki-1/"
+      },
+      {
+        "name": "Багги",
+        "link": "https://rc-go.ru/cat/baggi/"
+      },
+      {
+        "name": "Краулеры и трофи",
+        "link": "https://rc-go.ru/cat/krauleri-i-trofi/"
+      },
+      {
+        "name": "Грузовики и прицепы",
+        "link": "https://rc-go.ru/cat/gruzoviki-i-pritsepi/"
+      },
+      {
+        "name": "Модели Kyosho Mini-Z",
+        "link": "https://rc-go.ru/cat/modeli-kyosho-mini-z/"
+      },
+      {
+        "name": "Мотоциклы",
+        "link": "https://rc-go.ru/cat/mototsikli/"
+      }
+    ]
+  },
+  {
+    "name": "Радиоуправляемые модели машин с ДВС, бензиновые и нитро",
+    "link": "https://rc-go.ru/cat/radioupravlyaemie-modeli-mashin-s-dvs-benzinovie-i-nitro/",
+    "subcategories": [
+      {
+        "name": "Монстры",
+        "link": "https://rc-go.ru/cat/monstri-1/"
+      },
+      {
+        "name": "Внедорожники (трагги)",
+        "link": "https://rc-go.ru/cat/vnedorozhniki-traggi-1/"
+      },
+      {
+        "name": "Шорт-корс траки",
+        "link": "https://rc-go.ru/cat/short-kors-traki/"
+      },
+      {
+        "name": "Ралли",
+        "link": "https://rc-go.ru/cat/ralli-1/"
+      },
+      {
+        "name": "Багги",
+        "link": "https://rc-go.ru/cat/baggi-1/"
+      },
+      {
+        "name": "Шоссейные",
+        "link": "https://rc-go.ru/cat/shosseynie-1/"
+      },
+      {
+        "name": "Внедорожники на бензине 1:5 и 1:8",
+        "link": "https://rc-go.ru/cat/vnedorozhniki-na-benzine-1to5-i-1to8/"
+      }
+    ]
+  },
+  {
+    "name": "Машинки на пульте",
+    "link": "https://rc-go.ru/cat/mashinki-na-pulte/",
+    "subcategories": [
+      {
+        "name": "Машинки с копийными кузовами",
+        "link": "https://rc-go.ru/cat/mashinki-s-kopiynimi-kuzovami/"
+      },
+      {
+        "name": "Машинки-игрушки",
+        "link": "https://rc-go.ru/cat/mashinki-igrushki/"
+      },
+      {
+        "name": "Строительная и спецтехника",
+        "link": "https://rc-go.ru/cat/stroitelnaya-i-spetstehnika/"
       }
     ]
   }
