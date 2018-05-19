@@ -1,0 +1,732 @@
+[
+  {
+    "name": "Квадрокоптеры",
+    "link": "https://rc-go.ru/cat/radioupravlyaemie-kvadrokopteri/",
+    "subcategories": [
+      {
+        "name": "Квадрокоптеры для начинающих",
+        "link": "https://rc-go.ru/cat/kvadrokopteri-dlya-nachinayuschih/"
+      },
+      {
+        "name": "Квадрокоптеры с камерой",
+        "link": "https://rc-go.ru/cat/kvadrokopteri-s-kameroy/"
+      },
+      {
+        "name": "Квадрокоптеры профессиональные для съемки",
+        "link": "https://rc-go.ru/cat/kvadrokopteri-professionalnie-dlya-s-emki/"
+      },
+      {
+        "name": "Гоночные квадрокоптеры",
+        "link": "https://rc-go.ru/cat/gonochnie-kvadrokopteri/"
+      },
+      {
+        "name": "3D квадрокоптеры",
+        "link": "https://rc-go.ru/cat/3d-kvadrokopteri/"
+      }
+    ]
+  },
+  {
+    "name": "Машины",
+    "link": "https://rc-go.ru/cat/radioupravlyaemie-avtomobili/",
+    "subcategories": [
+      {
+        "name": "Радиоуправляемые модели машин электро",
+        "link": "https://rc-go.ru/cat/radioupravlyaemie-modeli-mashin-elektro/"
+      },
+      {
+        "name": "Радиоуправляемые модели машин с ДВС, бензиновые и нитро",
+        "link": "https://rc-go.ru/cat/radioupravlyaemie-modeli-mashin-s-dvs-benzinovie-i-nitro/"
+      },
+      {
+        "name": "Машинки на пульте",
+        "link": "https://rc-go.ru/cat/mashinki-na-pulte/"
+      }
+    ]
+  },
+  {
+    "name": "Вертолеты",
+    "link": "https://rc-go.ru/cat/radioupravlyaemie-modeli-vertoletov/",
+    "subcategories": [
+      {
+        "name": "Вертолеты однороторные",
+        "link": "https://rc-go.ru/cat/vertoleti-odnorotornie/"
+      },
+      {
+        "name": "Вертолеты двухроторные",
+        "link": "https://rc-go.ru/cat/vertoleti-dvuhrotornie/"
+      },
+      {
+        "name": "Вертолеты с камерой",
+        "link": "https://rc-go.ru/cat/vertoleti-s-kameroy/"
+      },
+      {
+        "name": "Вертолеты для профессионалов (готовые комплекты RTF)",
+        "link": "https://rc-go.ru/cat/vertoleti-dlya-professionalov-gotovie-komplekti-rtf/"
+      },
+      {
+        "name": "Вертолеты для профессионалов (наборы для сборки KIT)",
+        "link": "https://rc-go.ru/cat/vertoleti-dlya-professionalov-nabori-dlya-sborki-kit/"
+      },
+      {
+        "name": "Вертолеты игрушки",
+        "link": "https://rc-go.ru/cat/vertoleti-igrushki/"
+      }
+    ]
+  },
+  {
+    "name": "Самолеты",
+    "link": "https://rc-go.ru/cat/radioupravlyaemie-modeli-samoletov/",
+    "subcategories": [
+      {
+        "name": "Самолеты для начинающих",
+        "link": "https://rc-go.ru/cat/samoleti-dlya-nachinayuschih/"
+      },
+      {
+        "name": "Спортивные и пилотажные самолеты",
+        "link": "https://rc-go.ru/cat/sportivnie-i-pilotazhnie-samoleti/"
+      },
+      {
+        "name": "Копийные самолеты",
+        "link": "https://rc-go.ru/cat/kopiynie-samoleti/"
+      },
+      {
+        "name": "Импеллерные самолеты",
+        "link": "https://rc-go.ru/cat/impellernie-samoleti/"
+      },
+      {
+        "name": "Планеры",
+        "link": "https://rc-go.ru/cat/planery/"
+      },
+      {
+        "name": "Самолеты игрушки",
+        "link": "https://rc-go.ru/cat/samoleti-igrushki/"
+      }
+    ]
+  },
+  {
+    "name": "Катера и яхты",
+    "link": "https://rc-go.ru/cat/katera/",
+    "subcategories": [
+      {
+        "name": "Катера с электродвигателем",
+        "link": "https://rc-go.ru/cat/katera-s-elektrodvigatelem/"
+      },
+      {
+        "name": "Катера с ДВС",
+        "link": "https://rc-go.ru/cat/katera-s-dvs/"
+      },
+      {
+        "name": "Подводные лодки",
+        "link": "https://rc-go.ru/cat/podvodnie-lodki/"
+      },
+      {
+        "name": "Яхты",
+        "link": "https://rc-go.ru/cat/yahti/"
+      },
+      {
+        "name": "Катера игрушки",
+        "link": "https://rc-go.ru/cat/katera-igrushki/"
+      },
+      {
+        "name": "Катера для рыбалки с эхолотами и кормушками",
+        "link": "https://rc-go.ru/cat/katera-dlya-ribalki-s-eholotami-i-kormushkami/"
+      },
+      {
+        "name": "Запчасти к катерам и яхтам",
+        "link": "https://rc-go.ru/cat/zapchasti-k-kateram-i-yahtam/"
+      }
+    ]
+  },
+  {
+    "name": "Гироскутеры",
+    "link": "https://rc-go.ru/cat/giroskuteri/",
+    "subcategories": []
+  },
+  {
+    "name": "Танки",
+    "link": "https://rc-go.ru/cat/radioupravlyaemie-tankovie-boi-i-tanki/",
+    "subcategories": [
+      {
+        "name": "Танки копийные",
+        "link": "https://rc-go.ru/cat/tanki-kopiynie/"
+      },
+      {
+        "name": "Танковые бои",
+        "link": "https://rc-go.ru/cat/tankovie-boi/"
+      },
+      {
+        "name": "Танки-шпионы",
+        "link": "https://rc-go.ru/cat/tanki-shpioni/"
+      },
+      {
+        "name": "Танки-игрушки",
+        "link": "https://rc-go.ru/cat/tanki-igrushki/"
+      }
+    ]
+  },
+  {
+    "name": "Игрушки и хобби",
+    "link": "https://rc-go.ru/cat/igrushki-i-hobbi/",
+    "subcategories": [
+      {
+        "name": "Товары для творчества и развития",
+        "link": "https://rc-go.ru/cat/tovari-dlya-tvorchestva-i-razvitiya/"
+      },
+      {
+        "name": "Конструкторы",
+        "link": "https://rc-go.ru/cat/konstruktori/"
+      },
+      {
+        "name": "Роботы",
+        "link": "https://rc-go.ru/cat/roboti/"
+      },
+      {
+        "name": "Опыты и эксперименты",
+        "link": "https://rc-go.ru/cat/igrovie-nabori-i-modeli-kopii/"
+      },
+      {
+        "name": "Игрушки и игровые наборы",
+        "link": "https://rc-go.ru/cat/modeli-kopii/"
+      },
+      {
+        "name": "Спиннеры",
+        "link": "https://rc-go.ru/cat/treki/"
+      },
+      {
+        "name": "Игрушки и игровые наборы на радиоуправлении",
+        "link": "https://rc-go.ru/cat/prochee-1/"
+      },
+      {
+        "name": "Пазлы",
+        "link": "https://rc-go.ru/cat/pazli/"
+      },
+      {
+        "name": "Картины по номерам (на холсте)",
+        "link": "https://rc-go.ru/cat/kartini-po-nomeram/"
+      },
+      {
+        "name": "3D ручки и аксессуары",
+        "link": "https://rc-go.ru/cat/3d-printeri-i-ruchki/"
+      },
+      {
+        "name": "Жвачка для рук",
+        "link": "https://rc-go.ru/cat/igrushki/"
+      },
+      {
+        "name": "Кинетический песок и пластилин",
+        "link": "https://rc-go.ru/cat/kineticheskiy-pesok/"
+      },
+      {
+        "name": "Модели ракет",
+        "link": "https://rc-go.ru/cat/modeli-raket/"
+      },
+      {
+        "name": "Железные дороги",
+        "link": "https://rc-go.ru/cat/zheleznie-dorogi/"
+      },
+      {
+        "name": "Гоночные треки",
+        "link": "https://rc-go.ru/cat/treki-1/"
+      }
+    ]
+  },
+  {
+    "name": "Запчасти для моделей",
+    "link": "https://rc-go.ru/cat/zapchasti/",
+    "subcategories": [
+      {
+        "name": "Запчасти для автомоделей",
+        "link": "https://rc-go.ru/cat/zapchasti-dlya-avtomodeley/"
+      },
+      {
+        "name": "Запчасти для квадрокоптеров и мультикоптеров",
+        "link": "https://rc-go.ru/cat/zapchasti-dlya-kvadrokopterov-i-multikopterov/"
+      },
+      {
+        "name": "Запчасти для вертолетов",
+        "link": "https://rc-go.ru/cat/zapchasti-dlya-vertoletov/"
+      },
+      {
+        "name": "Запчасти для самолетов",
+        "link": "https://rc-go.ru/cat/zapchasti-dlya-samoletov/"
+      },
+      {
+        "name": "Двигатели внутреннего сгорания и аксессуары",
+        "link": "https://rc-go.ru/cat/dvigateli-vnutrennego-sgoraniya-i-aksessuari/"
+      },
+      {
+        "name": "Запчасти и аксессуары для танков",
+        "link": "https://rc-go.ru/cat/zapchasti-i-aksessuari-dlya-tankov/"
+      },
+      {
+        "name": "Запчасти для электромобилей",
+        "link": "https://rc-go.ru/cat/zapchasti-dlya-elektromobiley/"
+      },
+      {
+        "name": "Запчасти и аксессуары для гироскутеров",
+        "link": "https://rc-go.ru/cat/zapchasti-i-aksessuari-dlya-giroskuterov/"
+      }
+    ]
+  },
+  {
+    "name": "Аккумуляторы и зарядные устройства",
+    "link": "https://rc-go.ru/cat/akkumulyatori-i-zaryadnie-ustroystva/",
+    "subcategories": [
+      {
+        "name": "USB-адаптеры и блоки питания для портативных устройств",
+        "link": "https://rc-go.ru/cat/usb-adapteri-i-bloki-pitaniya-dlya-portativnih-ustroystv/"
+      },
+      {
+        "name": "Зарядные устройства для LA аккумуляторов",
+        "link": "https://rc-go.ru/cat/zaryadnie-ustroystva-dlya-la-akkumulyatorov/"
+      },
+      {
+        "name": "Зарядные устройства универсальные",
+        "link": "https://rc-go.ru/cat/zaryadnie-ustroystva-universalnie/"
+      },
+      {
+        "name": "Аккумуляторы LiPo, LiFe",
+        "link": "https://rc-go.ru/cat/akkumulyatori-lipo-life/"
+      },
+      {
+        "name": "Элементы питания, батареи и аккумуляторы",
+        "link": "https://rc-go.ru/cat/batareyki/"
+      },
+      {
+        "name": "Бортовые аккумуляторы",
+        "link": "https://rc-go.ru/cat/bortovie-akkumulyatori/"
+      },
+      {
+        "name": "Аккумуляторы NiMH, NiCa",
+        "link": "https://rc-go.ru/cat/akkumulyatori-nimh-nica/"
+      },
+      {
+        "name": "Зарядные устр-ва для LiPo",
+        "link": "https://rc-go.ru/cat/zaryadnie-ustr-va-dlya-lipo/"
+      },
+      {
+        "name": "Зарядные устр-ва для NiMH",
+        "link": "https://rc-go.ru/cat/zaryadnie-ustr-va-dlya-nimh/"
+      },
+      {
+        "name": "Аккумуляторы для дронов",
+        "link": "https://rc-go.ru/cat/akkumulyatori-dlya-dronov/"
+      },
+      {
+        "name": "Сумки для хранения LiPo аккумуляторов",
+        "link": "https://rc-go.ru/cat/sumki-dlya-hraneniya-lipo-akkumulyatorov/"
+      },
+      {
+        "name": "Блоки питания",
+        "link": "https://rc-go.ru/cat/bloki-pitaniya/"
+      },
+      {
+        "name": "Балансиры, разрядники, тестеры",
+        "link": "https://rc-go.ru/cat/balansiri-razryadniki-testeri/"
+      },
+      {
+        "name": "Аксессуары",
+        "link": "https://rc-go.ru/cat/aksessuari-1/"
+      },
+      {
+        "name": "Промышленные элементы питания",
+        "link": "https://rc-go.ru/cat/promishlennie-elementi-pitaniya/"
+      },
+      {
+        "name": "Другие аккумуляторы",
+        "link": "https://rc-go.ru/cat/drugie-akkumulyatori/"
+      }
+    ]
+  },
+  {
+    "name": "Топливо",
+    "link": "https://rc-go.ru/cat/toplivo/",
+    "subcategories": [
+      {
+        "name": "Топливо для автомоделей",
+        "link": "https://rc-go.ru/cat/toplivo-dlya-avtomodeley/"
+      },
+      {
+        "name": "Топливо для авиа моделей и катеров",
+        "link": "https://rc-go.ru/cat/toplivo-dlya-avia-modeley-i-katerov/"
+      }
+    ]
+  },
+  {
+    "name": "Стартовое оборудование",
+    "link": "https://rc-go.ru/cat/startovoe-oborudovanie/",
+    "subcategories": [
+      {
+        "name": "Стартовые наборы",
+        "link": "https://rc-go.ru/cat/startovie-nabori/"
+      },
+      {
+        "name": "Накалы свечи",
+        "link": "https://rc-go.ru/cat/nakali-svechi/"
+      },
+      {
+        "name": "Термометры",
+        "link": "https://rc-go.ru/cat/termometri/"
+      },
+      {
+        "name": "Свечи нитро ДВС",
+        "link": "https://rc-go.ru/cat/svechi/"
+      },
+      {
+        "name": "Свечи бензо ДВС",
+        "link": "https://rc-go.ru/cat/svechi-benzo-dvs/"
+      },
+      {
+        "name": "Заправочные бутылочки",
+        "link": "https://rc-go.ru/cat/zapravochnie-butilochki/"
+      },
+      {
+        "name": "Ротостартеры",
+        "link": "https://rc-go.ru/cat/rotostarteri/"
+      },
+      {
+        "name": "Стартовые столы и аксессуары",
+        "link": "https://rc-go.ru/cat/startovie-stoli-i-aksessuari/"
+      }
+    ]
+  },
+  {
+    "name": "Масла и автохимия",
+    "link": "https://rc-go.ru/cat/himiya/",
+    "subcategories": [
+      {
+        "name": "Краска",
+        "link": "https://rc-go.ru/cat/kraska/"
+      },
+      {
+        "name": "Масло для воздушных фильтров",
+        "link": "https://rc-go.ru/cat/maslo-dlya-vozdushnih-filtrov/"
+      },
+      {
+        "name": "Смазка",
+        "link": "https://rc-go.ru/cat/smazki/"
+      },
+      {
+        "name": "Клеи (циакрин)",
+        "link": "https://rc-go.ru/cat/klei-tsiakrin/"
+      },
+      {
+        "name": "Масло для амортизаторов",
+        "link": "https://rc-go.ru/cat/maslo-dlya-amortizatorov/"
+      },
+      {
+        "name": "Масло для нитрометана",
+        "link": "https://rc-go.ru/cat/maslo-dlya-nitrometana/"
+      },
+      {
+        "name": "Масло для дифференциалов",
+        "link": "https://rc-go.ru/cat/maslo-dlya-differentsialov/"
+      },
+      {
+        "name": "Полиморфус",
+        "link": "https://rc-go.ru/cat/polimorfus/"
+      },
+      {
+        "name": "Фиксаторы резбы (локтайт)",
+        "link": "https://rc-go.ru/cat/fiksatori-rezbi-loktayt/"
+      },
+      {
+        "name": "Очистители (клинеры)",
+        "link": "https://rc-go.ru/cat/ochistiteli-klineri/"
+      },
+      {
+        "name": "Масло для хранения ДВС (After Run Oil)",
+        "link": "https://rc-go.ru/cat/maslo-dlya-hraneniya-dvs-after-run-oil/"
+      },
+      {
+        "name": "Масло для бензиновых 2-х тактных двигателей",
+        "link": "https://rc-go.ru/cat/maslo-dlya-benzinovih-2-h-taktnih-dvigateley/"
+      },
+      {
+        "name": "Намазки для шин",
+        "link": "https://rc-go.ru/cat/namazki-dlya-shin/"
+      }
+    ]
+  },
+  {
+    "name": "Электродвигатели и регуляторы скорости",
+    "link": "https://rc-go.ru/cat/elektrodvigateli-i-regulyatori-skorosti/",
+    "subcategories": [
+      {
+        "name": "Электродвигатели и регуляторы оборотов для квадрокоптеров",
+        "link": "https://rc-go.ru/cat/elektrodvigateli-i-regulyatori-oborotov-dlya-kvadrokopterov/"
+      },
+      {
+        "name": "Электродвигатели и регуляторы оборотов для автомоделей",
+        "link": "https://rc-go.ru/cat/elektrodvigateli-i-regulyatori-oborotov-dlya-avtomodeley/"
+      },
+      {
+        "name": "Электродвигатели и регуляторы оборотов для авиамоделей",
+        "link": "https://rc-go.ru/cat/elektrodvigateli-i-regulyatori-oborotov-dlya-aviamodeley/"
+      },
+      {
+        "name": "Электродвигатели и регуляторы оборотов для катеров",
+        "link": "https://rc-go.ru/cat/elektrodvigateli-i-regulyatori-oborotov-dlya-katerov/"
+      },
+      {
+        "name": "Программаторы для регуляторов скорости",
+        "link": "https://rc-go.ru/cat/programmatori-dlya-regulyatorov-skorosti/"
+      },
+      {
+        "name": "Радиаторы и вентиляторы",
+        "link": "https://rc-go.ru/cat/radiatori-i-ventilyatori/"
+      },
+      {
+        "name": "Аксессуары и запчасти для электродвигателей",
+        "link": "https://rc-go.ru/cat/aksessuari-i-zapchasti-dlya-elektrodvigateley/"
+      },
+      {
+        "name": "Сенсорные кабели, конденсаторы и выключатели",
+        "link": "https://rc-go.ru/cat/aksessuari/"
+      }
+    ]
+  },
+  {
+    "name": "Аппаратура и электроника",
+    "link": "https://rc-go.ru/cat/apparatura-i-elektronika/",
+    "subcategories": [
+      {
+        "name": "Передатчики и комплекты для авто- и судомоделей",
+        "link": "https://rc-go.ru/cat/peredatchiki-i-komplekti-dlya-avto-i-sudomodeley/"
+      },
+      {
+        "name": "Сервомашинки и Аксессуары",
+        "link": "https://rc-go.ru/cat/servomashinki-i-aksessuari/"
+      },
+      {
+        "name": "Приемники авиамоделей",
+        "link": "https://rc-go.ru/cat/priemniki/"
+      },
+      {
+        "name": "Приемники авто- и судомодели",
+        "link": "https://rc-go.ru/cat/priemniki-avto-i-sudomodeli/"
+      },
+      {
+        "name": "Передатчики и комплекты для авиамоделей",
+        "link": "https://rc-go.ru/cat/peredatchiki-i-komplekti-dlya-aviamodeley/"
+      },
+      {
+        "name": "Гироскопы и аксессуары",
+        "link": "https://rc-go.ru/cat/giroskopi/"
+      },
+      {
+        "name": "Модули и память",
+        "link": "https://rc-go.ru/cat/moduli-i-pamyat/"
+      },
+      {
+        "name": "Кварцы",
+        "link": "https://rc-go.ru/cat/kvartsi/"
+      },
+      {
+        "name": "Антенны",
+        "link": "https://rc-go.ru/cat/antenni/"
+      },
+      {
+        "name": "Аксессуары для передатчиков",
+        "link": "https://rc-go.ru/cat/aksessuari-dlya-peredatchikov/"
+      },
+      {
+        "name": "Стабилизаторы напряжения BEC/UBEC",
+        "link": "https://rc-go.ru/cat/stabilizatori-napryazheniya-bec-ubec/"
+      },
+      {
+        "name": "Телеметрия и датчики",
+        "link": "https://rc-go.ru/cat/telemetriya-i-datchiki/"
+      },
+      {
+        "name": "Failsafe, сигнализаторы и прочие аксессуары",
+        "link": "https://rc-go.ru/cat/failsafe-signalizatori-i-prochie-aksessuari/"
+      },
+      {
+        "name": "Индикаторы напряжения для LiPo и NiMH аккумуляторов",
+        "link": "https://rc-go.ru/cat/indikatori-napryazheniya-dlya-lipo-i-nimh-akkumulyatorov/"
+      },
+      {
+        "name": "Кабели, коннекторы, прочее",
+        "link": "https://rc-go.ru/cat/kabeli-konnektori-prochee/"
+      },
+      {
+        "name": "Термоусадочные трубки",
+        "link": "https://rc-go.ru/cat/termousadochnie-trubki/"
+      }
+    ]
+  },
+  {
+    "name": "Инструмент",
+    "link": "https://rc-go.ru/cat/instrument-i-prinadlezhnosti/",
+    "subcategories": [
+      {
+        "name": "Аэрографы и комплектующие",
+        "link": "https://rc-go.ru/cat/aerografi-i-komplektuyuschie/"
+      },
+      {
+        "name": "Отвертки и наборы",
+        "link": "https://rc-go.ru/cat/otvertki-i-nabori/"
+      },
+      {
+        "name": "Инструмент для работы со сцеплением",
+        "link": "https://rc-go.ru/cat/instrument-dlya-raboti-so-stsepleniem/"
+      },
+      {
+        "name": "Развертки",
+        "link": "https://rc-go.ru/cat/razvertki/"
+      },
+      {
+        "name": "Ключи свечные и универсальные",
+        "link": "https://rc-go.ru/cat/klyuchi-svechnie-i-universalnie/"
+      },
+      {
+        "name": "Ключи торцевые, накидные и г-образные",
+        "link": "https://rc-go.ru/cat/klyuchi-tortsevie-nakidnie-i-g-obraznie/"
+      },
+      {
+        "name": "Стенды и инструмент для настройки шасси",
+        "link": "https://rc-go.ru/cat/stendi-i-instrument-dlya-nastroyki-shassi/"
+      },
+      {
+        "name": "Инструмент для работы по лексану",
+        "link": "https://rc-go.ru/cat/instrument-dlya-raboti-po-leksanu/"
+      },
+      {
+        "name": "Инструмент для работы по дереву",
+        "link": "https://rc-go.ru/cat/instrument-dlya-raboti-po-derevu/"
+      },
+      {
+        "name": "Коврики для ремонта и ящики дла мелких предметов",
+        "link": "https://rc-go.ru/cat/kovriki-dlya-remonta-i-yaschiki-dla-melkih-predmetov/"
+      },
+      {
+        "name": "Инструмент для сборки амортизаторов",
+        "link": "https://rc-go.ru/cat/instrument-dlya-sborki-amortizatorov/"
+      },
+      {
+        "name": "Помпы ручные",
+        "link": "https://rc-go.ru/cat/pompi-ruchnie/"
+      },
+      {
+        "name": "Разное",
+        "link": "https://rc-go.ru/cat/raznoe-4/"
+      }
+    ]
+  },
+  {
+    "name": "Камеры, подвесы и системы FPV",
+    "link": "https://rc-go.ru/cat/kameri-podvesi-i-fpv/",
+    "subcategories": [
+      {
+        "name": "Подвесы, стедикамы и аксессуары",
+        "link": "https://rc-go.ru/cat/podvesi-stedikami-i-aksessuari/"
+      },
+      {
+        "name": "Видеокамеры",
+        "link": "https://rc-go.ru/cat/videokameri/"
+      },
+      {
+        "name": "FPV, модули, передатчики, антенны",
+        "link": "https://rc-go.ru/cat/fpv-moduli-peredatchiki-antenni/"
+      },
+      {
+        "name": "Кабели и конекторы подключения видеооборудования",
+        "link": "https://rc-go.ru/cat/kabeli-i-konektori-podklyucheniya-videooborudovaniya/"
+      }
+    ]
+  },
+  {
+    "name": "Симуляторы",
+    "link": "https://rc-go.ru/cat/simulyatori/",
+    "subcategories": []
+  },
+  {
+    "name": "Детские электромобили",
+    "link": "https://rc-go.ru/cat/detskie-elektromobili-mototsikli-kvadrotsikli/",
+    "subcategories": [
+      {
+        "name": "Электромобили",
+        "link": "https://rc-go.ru/cat/elektromobili/"
+      },
+      {
+        "name": "Электромотоциклы",
+        "link": "https://rc-go.ru/cat/elektromototsikli/"
+      },
+      {
+        "name": "Электроквадроциклы",
+        "link": "https://rc-go.ru/cat/elektrokvadrotsikli/"
+      },
+      {
+        "name": "Электрокарты",
+        "link": "https://rc-go.ru/cat/elektrokarti/"
+      },
+      {
+        "name": "Велосипеды",
+        "link": "https://rc-go.ru/cat/velosipedi/"
+      }
+    ]
+  },
+  {
+    "name": "Сумки и промо материалы",
+    "link": "https://rc-go.ru/cat/sumki-i-promo-materiali/",
+    "subcategories": [
+      {
+        "name": "Промоушен",
+        "link": "https://rc-go.ru/cat/promoushen/"
+      },
+      {
+        "name": "Сумки",
+        "link": "https://rc-go.ru/cat/sumki/"
+      }
+    ]
+  },
+  {
+    "name": "Сборные модели",
+    "link": "https://rc-go.ru/cat/sbornie-modeli/",
+    "subcategories": [
+      {
+        "name": "Автомобили и мотоциклы",
+        "link": "https://rc-go.ru/cat/avtomobili/"
+      },
+      {
+        "name": "Военная техника",
+        "link": "https://rc-go.ru/cat/voennaya-tehnika/"
+      },
+      {
+        "name": "Мультфильмы, кино, комиксы",
+        "link": "https://rc-go.ru/cat/multfilmi-kino-komiksi/"
+      },
+      {
+        "name": "Запчасти и аксессуары",
+        "link": "https://rc-go.ru/cat/hasegawa/"
+      }
+    ]
+  },
+  {
+    "name": "Услуги сервиса",
+    "link": "https://rc-go.ru/cat/uslugi-servisnoy-masterskoy/",
+    "subcategories": [
+      {
+        "name": "Сервисные работы с моделями масштаба от 1:24 до 1:8",
+        "link": "https://rc-go.ru/cat/servisnie-raboti-s-modelyami-masshtaba-ot-1to24-do-1to8/"
+      },
+      {
+        "name": "Сервисные работы с моделями масштаба 1:5 (бензин)",
+        "link": "https://rc-go.ru/cat/servisnie-raboti-s-modelyami-masshtaba-1to5-benzin/"
+      },
+      {
+        "name": "Сервисные работы с моделями вертолётов",
+        "link": "https://rc-go.ru/cat/servisnie-raboti-s-modelyami-vertoletov/"
+      },
+      {
+        "name": "Сервисные работы с моделями квадрокоптеров и мультикоптеров",
+        "link": "https://rc-go.ru/cat/servisnie-raboti-s-modelyami-kvadrokopterov-i-multikopterov/"
+      },
+      {
+        "name": "Сервисные работы с детскими электромобилями",
+        "link": "https://rc-go.ru/cat/servisnie-raboti-s-detskimi-elektromobilyami/"
+      }
+    ]
+  }
+]
