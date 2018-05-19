@@ -9,7 +9,8 @@ const wait = ms => new Promise(done => setTimeout(done, ms));
 
 (async ()=>{
   const browser = await puppeteer.launch({
-    headless: false,
+    headless: process.env.HEADLESS || false,
+    args: ['--no-sandbox']
   });
   const page = await browser.newPage();
 
